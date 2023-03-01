@@ -3,6 +3,8 @@ This porject was made in the project mangment course to challnge the student int
 
 Project Information
 
+*******
+
 This Project was made in group project collabration for the project management course:
 
 Name / Student_ID
@@ -18,3 +20,5 @@ RIDHA ALMASHARI
 ZEYAD ALHARBI
 
 FAISAL ALALOOLA
+
+*******
